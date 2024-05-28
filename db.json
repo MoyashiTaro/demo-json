@@ -34,6 +34,11 @@
 					"fund_exchange_late": "250"		
 				},
 				{
+					"fund_id": "359",
+					"sub_excute_amount": "100",
+					"fund_exchange_late": "1"		
+				},
+				{
 					"fund_id": "396",
 					"sub_excute_amount": "1500",
 					"fund_exchange_late": "550"		
