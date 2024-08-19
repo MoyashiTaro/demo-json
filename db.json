@@ -140,41 +140,39 @@
 			"ultimate_borrowers_name": "Robocash PTE Ltd"
 		}
 	],
-	"00268-01":[
-		{
-			"h_id": "00268-01",
-			"creation_date": "2024-04-01",
-			"loan_start_date": "2024-04-01",
-			"excute_amount": "1400000.00",
-			"interest_rate": "0.1100",
-			"penalty_rate": "0.2000",
-			"repayment_rule": "元金一括・毎月利払い",
-			"repayment_frequency": "36",
-			"loan_end_date": "2024-05-01",
-			"total_term": "64",
-			"total_repayment": "1425666.66",
-			"total_capital_repayment": "1400000.00",
-			"total_interest_repayment": "25666.66",
-			"repayments": [
-				{
-					"date": "2024-04-01",
-					"term": "32",
-					"amount": "12833.33",
-					"capital": "0.00",
-					"interest": "12833.33",
-					"residual": "1400000.00"		
-				},
-				{
-					"date": "2024-05-01",
-					"term": "32",
-					"amount": "1412833.33",
-					"capital": "1400000.00",
-					"interest": "12833.33",
-					"residual": "0.00"		
-				}
-			]
-		}
-	],
+	"00268-01":{
+		"h_id": "00268-01",
+		"creation_date": "2024-04-01",
+		"loan_start_date": "2024-04-01",
+		"excute_amount": "1400000.00",
+		"interest_rate": "0.1100",
+		"penalty_rate": "0.2000",
+		"repayment_rule": "元金一括・毎月利払い",
+		"repayment_frequency": "36",
+		"loan_end_date": "2024-05-01",
+		"total_term": "64",
+		"total_repayment": "1425666.66",
+		"total_capital_repayment": "1400000.00",
+		"total_interest_repayment": "25666.66",
+		"repayments": [
+			{
+				"date": "2024-04-01",
+				"term": "32",
+				"amount": "12833.33",
+				"capital": "0.00",
+				"interest": "12833.33",
+				"residual": "1400000.00"		
+			},
+			{
+				"date": "2024-05-01",
+				"term": "32",
+				"amount": "1412833.33",
+				"capital": "1400000.00",
+				"interest": "12833.33",
+				"residual": "0.00"		
+			}
+		]
+	},
 	"363":{
 		"fund_id": "737",
 		"fund_start_date": "2024-04-01",
