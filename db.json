@@ -209,7 +209,7 @@
 		}
 	],
 	"repayment_fund":[
-		"737":[
+		{
 			"fund_id": "737",
 			"fund_start_date": "2024-04-01",
 			"excute_amount": "1400000.00",
@@ -237,8 +237,8 @@
 					"residual": "0.00"		
 				}
 			]
-		],
-		"738":[
+		},
+		{
 			"fund_id": "737",
 			"fund_start_date": "2024-04-01",
 			"excute_amount": "1400000.00",
@@ -266,7 +266,7 @@
 					"residual": "0.00"		
 				}
 			]
-		],
+		}
 	]
 
 }
