@@ -207,23 +207,11 @@
 		}
 	],
 	"363":{
-		"fund_id": "737",
-		"repayments": [
-			{
-				"date": "2024-04-01",
-				"term": "32",
-				"amount": "12833.33",
-				"capital": "0.00",
-				"interest": "12833.33",
-			},
-			{
-				"date": "2024-05-01",
-				"term": "32",
-				"amount": "1412833.33",
-				"capital": "1400000.00",
-				"interest": "12833.33",	
-			}
-		]
+		"fund_id": "363",
+		"fund_start_date": "2024-04-01",
+		"excute_amount": "1400000.00",
+		"interest_rate": "0.0750",
+		"fund_end_date": "2024-05-01",
 	}
 	
 }
