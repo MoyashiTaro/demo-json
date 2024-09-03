@@ -126,6 +126,20 @@
 			]
 		}
 	],
+	"borrowers":[
+		{
+			"borrowers_id": "B-0001",
+			"borrowers_name": "LE TECH LLP"
+		},
+		{
+			"borrowers_id": "B-0002",
+			"borrowers_name": "SSSSSSS"
+		},
+		{
+			"borrowers_id": "B-0003",
+			"borrowers_name": "ああああああ"
+		}
+	],
 	"ultimate_borrowers":[
 		{
 			"ultimate_borrowers_id": "UB-0001",
